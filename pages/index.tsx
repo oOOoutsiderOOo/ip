@@ -41,7 +41,7 @@ const Home: NextPage = () => {
     const [data, setData] = useState(initData);
     const [ip, setIp] = useState<string>("");
 
-    const searchHandler = (e: FormEvent<HTMLFormElement> | MouseEvent<HTMLInputElement, MouseEvent>) => {
+    const searchHandler = (e: any) => {
         const regex = new RegExp("^(?:(25[0-5]|2[0-4][0-9]|1[0-9]{2}|[1-9]?[0-9])(.(?!$)|$)){4}$");
         if (regex.test(ip) === false) {
             alert("That's not a valid IP");

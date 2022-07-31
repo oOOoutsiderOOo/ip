@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { MapContainer, Marker, Popup, TileLayer } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
 
-const Map = props => {
+const Map = (props: { lat: number; lng: number }) => {
     return (
         <MapContainer
             className="map-container"

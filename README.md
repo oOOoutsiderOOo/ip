@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [GitHub repo](https://github.com/oOOoutsiderOOo/calc)
+-   Solution URL: [GitHub repo](https://github.com/oOOoutsiderOOo/ip)
 -   Live Site URL: [Vercel](https://calc-delta.vercel.app/)
 
 ### Built with
