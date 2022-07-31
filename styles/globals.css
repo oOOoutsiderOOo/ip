@@ -121,7 +121,7 @@ h3 {
 }
 
 .background {
-    background: url("../public/pattern-bg.png");
+    background: url("/pattern-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
     height: 30vh;
@@ -169,7 +169,7 @@ input[type="text"] {
     color: var(--clr-gray-drk);
 }
 input[type="button"] {
-    background: url(../public/icon-arrow.svg), black;
+    background: url(/icon-arrow.svg), black;
     background-repeat: no-repeat;
     background-position: 50% 50%;
     width: 3rem;
@@ -177,7 +177,7 @@ input[type="button"] {
 }
 
 input[type="button"]:hover {
-    background: url(../public/icon-arrow.svg), var(--clr-gray-xdrk);
+    background: url(/icon-arrow.svg), var(--clr-gray-xdrk);
     background-repeat: no-repeat;
     background-position: 50% 50%;
 }
