@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [GitHub repo](https://github.com/oOOoutsiderOOo/ip)
--   Live Site URL: [Vercel](https://calc-delta.vercel.app/)
+-   Live Site URL: [Vercel](https://frontend-mentor-ip-tracker.vercel.app/)
 
 ### Built with
 
